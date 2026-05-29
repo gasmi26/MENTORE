@@ -1,0 +1,6 @@
+{
+  "name": "DSA AI Instructor",
+  "description": "An interactive, dark-themed AI instructor for Data Structures and Algorithms with a step-by-step problem solver, interactive code visualisations, and personal feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
